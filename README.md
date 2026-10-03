@@ -1,3 +1,4 @@
+### Background story
 Een oud wijze magier is opgepakt en in een dungeon.
 Hierdoor is hij al zijn krachten kwijt en moet die zijn verschillende abilities terug
 vinden om zo uit de dungeon te raken.
